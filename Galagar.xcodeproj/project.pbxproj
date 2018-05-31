@@ -13,7 +13,6 @@
 		621055B720B43C5000CD92BE /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 621055B620B43C5000CD92BE /* GameScene.swift */; };
 		621055B920B43C5000CD92BE /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 621055B820B43C5000CD92BE /* GameViewController.swift */; };
 		621055BC20B43C5000CD92BE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 621055BA20B43C5000CD92BE /* Main.storyboard */; };
-		621055BE20B43C5100CD92BE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 621055BD20B43C5100CD92BE /* Assets.xcassets */; };
 		621055C120B43C5100CD92BE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 621055BF20B43C5100CD92BE /* LaunchScreen.storyboard */; };
 		621055CC20B43C5100CD92BE /* GalagarTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 621055CB20B43C5100CD92BE /* GalagarTests.swift */; };
 		621055D720B43C5100CD92BE /* GalagarUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 621055D620B43C5100CD92BE /* GalagarUITests.swift */; };
@@ -47,7 +46,6 @@
 		621055B620B43C5000CD92BE /* GameScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameScene.swift; sourceTree = "<group>"; };
 		621055B820B43C5000CD92BE /* GameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameViewController.swift; sourceTree = "<group>"; };
 		621055BB20B43C5000CD92BE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		621055BD20B43C5100CD92BE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		621055C020B43C5100CD92BE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		621055C220B43C5100CD92BE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		621055C720B43C5100CD92BE /* GalagarTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GalagarTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -117,7 +115,6 @@
 				621055E420B467C600CD92BE /* MaskBit.swift */,
 				620FED4920B5BEAD0018BF17 /* game over .swift */,
 				621055BA20B43C5000CD92BE /* Main.storyboard */,
-				621055BD20B43C5100CD92BE /* Assets.xcassets */,
 				621055BF20B43C5100CD92BE /* LaunchScreen.storyboard */,
 				621055C220B43C5100CD92BE /* Info.plist */,
 				6215EE4920B7010F007A4F28 /* star .sks */,
@@ -249,7 +246,6 @@
 			files = (
 				621055BC20B43C5000CD92BE /* Main.storyboard in Resources */,
 				621055B320B43C5000CD92BE /* GameScene.sks in Resources */,
-				621055BE20B43C5100CD92BE /* Assets.xcassets in Resources */,
 				621055C120B43C5100CD92BE /* LaunchScreen.storyboard in Resources */,
 				6215EE4A20B7010F007A4F28 /* star .sks in Resources */,
 			);
